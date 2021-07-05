@@ -1,0 +1,34 @@
+span {
+    color: crimson;
+}
+body{
+    margin: 0px;
+}
+.color{
+    color: goldenrod;
+}
+section{
+    display: flex;
+}
+.jajabor{
+     width: 400px;
+     padding-left: 8%;
+   font-size: 28px;
+}
+ .jajabor img{
+     width: 150%;
+     padding-left: 20%;
+ }
+.contact{
+    text-decoration: none;
+   background-image: linear-gradient(#0080ff,#00ffff);
+    padding: 10px 40px;
+     border-radius: 10px;
+     color: floralwhite;
+     font-weight: 400;
+
+}
+.top-banner{
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+}
